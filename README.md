@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34236996/README.md)
 # Plantillas editables · Guía definitiva contra el acoso laboral en la empresa privada
 
 Libro 1 de la colección Voz de Trinchera, de Eduardo J. López A.
